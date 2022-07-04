@@ -1,0 +1,9 @@
+[submodule "example/deps/mach-glfw"]
+	path = example/deps/mach-glfw
+	url = https://github.com/hexops/mach-glfw
+[submodule "example/deps/freetype"]
+	path = example/deps/freetype
+	url = https://github.com/freetype/freetype.git
+[submodule "example/deps/zgl"]
+	path = example/deps/zgl
+	url = https://github.com/ziglibs/zgl.git
