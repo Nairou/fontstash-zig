@@ -11,3 +11,5 @@ See [example.zig](example/example.zig) for a complete example.
 
 The example pulls in several other dependencies (glfw, zgl, freetype) in order to get a working OpenGL window, but they can be ignored if you just want to see Fontstash API usage.
 
+![screenshot of the example program output](preview.png?raw=true)
+
